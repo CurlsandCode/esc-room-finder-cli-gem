@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require './lib/esc_room_finder'
+
+EscRoomFinder::CLI.new.call
