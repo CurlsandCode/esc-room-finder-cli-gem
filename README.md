@@ -1,6 +1,6 @@
 # EscRoomFinder
 
-If you are an escape room fanatic, such as myself, then this GEM is for you! No matter where you are in the USA this GEM will help you locate the closest escape room near you, just by typing in your zipcode.
+If you are an escape room fanatic, such as myself, then this GEM is for you! No matter where you are in the USA this GEM will help you locate the closest escape room near you, just by typing in your zipcode. Install this GEM to get started!
 
 ## Installation
 
