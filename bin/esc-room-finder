@@ -4,4 +4,5 @@
 require './lib/esc_room_finder'
 
 
- EscRoomFinder::CLI.new.call
+
+ EscRoomFinder::CLI.new
